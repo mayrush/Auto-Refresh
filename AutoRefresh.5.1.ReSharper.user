@@ -1,0 +1,199 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/d:Properties/f:AssemblyInfo.cs" caret="1102" fromTop="23" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:FadingMessageBox.Designer.cs" caret="791" fromTop="25" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:PageRefresherPlugin.cs" caret="282" fromTop="12" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="827" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:PageRefresherPlugin.cs" caret="763" fromTop="28" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:PageRefresherPlugin.cs" caret="986" fromTop="38" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:PageRefresherPlugin.cs" caret="856" fromTop="27" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/d:Properties/f:AssemblyInfo.cs" caret="952" fromTop="19" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:PageRefresherPlugin.cs" caret="986" fromTop="24" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2028" fromTop="39" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="466" fromTop="18" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="453" fromTop="14" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2028" fromTop="34" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="3006" fromTop="50" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2635" fromTop="35" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="3004" fromTop="40" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:PageRefresherPlugin.cs" caret="763" fromTop="18" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2028" fromTop="19" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2035" fromTop="25" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2239" fromTop="25" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2556" fromTop="25" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="3031" fromTop="25" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="139" fromTop="9" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="323" fromTop="7" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2028" fromTop="30" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2028" fromTop="43" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="546" fromTop="14" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="13" fromTop="0" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="718" fromTop="27" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="451" fromTop="17" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="1263" fromTop="36" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="1209" fromTop="22" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="2013" fromTop="42" />
+      <File id="80B53BD9-076B-4C59-8ED9-E479F67E8D01/f:AutoRefreshTooMenuItem.cs" caret="1426" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="2" />
+      <Item value="public" priority="4" />
+      <Item value="AutoRefreshButton`0" priority="1" />
+      <Item value="ButtonName" priority="0" />
+      <Item value="ButtonText" priority="0" />
+      <Item value="MenuText" priority="2" />
+      <Item value="MenuStatusBar" priority="1" />
+      <Item value="HotIconPath" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="ButtonAppearance" priority="0" />
+      <Item value="COMObject" priority="1" />
+      <Item value="ButtomCustomMenu" priority="0" />
+      <Item value="Tools" priority="1" />
+      <Item value="AssociatedCLSIDExtension" priority="0" />
+      <Item value="ButtonID" priority="0" />
+      <Item value="OnButtonCommand" priority="0" />
+      <Item value="UriHostNameType`0" priority="0" />
+      <Item value="ClassInterface" priority="0" />
+      <Item value="ClassInterfaceType`0" priority="0" />
+      <Item value="Guid`0" priority="0" />
+      <Item value="const" priority="1" />
+      <Item value="PluginGuid" priority="1" />
+      <Item value="ProgId" priority="0" />
+      <Item value="PluginProgId" priority="1" />
+      <Item value="SpicIE" priority="0" />
+      <Item value="PageRefresherPlugin`0" priority="3" />
+      <Item value="static" priority="1" />
+      <Item value="HostInstance" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="internal" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="TraceSink" priority="0" />
+      <Item value="TraceEventType`0" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="5" />
+      <Item value="IControlBase`0" priority="0" />
+      <Item value="controls" priority="1" />
+      <Item value="OnDocumentComplete" priority="0" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="Timer`0" priority="0" />
+      <Item value="Timer" priority="0" />
+      <Item value="timer" priority="1" />
+      <Item value="_timer" priority="3" />
+      <Item value="private" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="_isTimerStarted" priority="2" />
+      <Item value="true" priority="0" />
+      <Item value="Host`0" priority="9" />
+      <Item value="_urlToRefresh" priority="0" />
+      <Item value="ieHandle" priority="1" />
+      <Item value="Graphics`0" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="IntPtr`0" priority="0" />
+      <Item value="Rectangle`0" priority="0" />
+      <Item value="bounds" priority="1" />
+      <Item value="refreshType" priority="1" />
+      <Item value="FolderBrowserDialog`0" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="frmMessageBox`0" priority="1" />
+      <Item value="FadingMessageBox`0" priority="0" />
+      <Item value="FadingMessageBox" priority="0" />
+      <Item value="fmBox" priority="0" />
+      <Item value="fadingMessageBox" priority="1" />
+      <Item value="CenterParent" priority="0" />
+      <Item value="MenuItemCustom" priority="0" />
+      <Item value="MenuItemCommand" priority="0" />
+      <Item value="Guid" priority="0" />
+      <Item value="OnMenuCommand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Runtime.InteropServices.ClassInterfaceType">
+      <Item value="AutoDual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.TraceSource">
+      <Item value="TraceEvent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.TraceEventType">
+      <Item value="Information" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PageRefresher.PageRefresherPlugin">
+      <Item value="HostInstance" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Interval" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Tick" priority="0" />
+      <Item value="Tag" priority="0" />
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpicIE.Host">
+      <Item value="DocumentProperties" priority="2" />
+      <Item value="BrowserProperties" priority="12" />
+      <Item value="ConfigurationInstance" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpicIE.Parameter.Document">
+      <Item value="URL" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpicIE.Parameter.Browser">
+      <Item value="HWND" priority="2" />
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="1" />
+      <Item value="Refresh2`0" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="Top" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="ToolBar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Graphics">
+      <Item value="FromHwnd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PageRefresher.FadingMessageBox">
+      <Item value="Show`0" priority="2" />
+      <Item value="StartPosition" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="Top" priority="1" />
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.FormStartPosition">
+      <Item value="Manual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PageRefresher.PageRefresherPlugin">
+      <Item value="Container" priority="0" />
+      <Item value="BrowserRef" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpicIE.Controls.MenuItem+MenuItemCommandEnum">
+      <Item value="Executables" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

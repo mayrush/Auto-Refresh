@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="80B53BD9-076B-4C59-8ED9-E479F67E8D01" ModuleId="IEPageRefresherForRegressionResult" />
+  <Module PersistentId="SpicIE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7066b1a7ed5618f" ModuleId="SpicIE" />
+</Modules>
