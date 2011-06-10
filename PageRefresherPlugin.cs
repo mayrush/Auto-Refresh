@@ -29,7 +29,7 @@ namespace PageRefresher
 
         internal static List<IControlBase> RunOnceCOMRegistration()
         {
-            var controls = new List<IControlBase> { new AutoRefreshTooMenuItem() };
+            var controls = new List<IControlBase> { new AutoRefreshTooButton() };
 
             return controls;
         }
