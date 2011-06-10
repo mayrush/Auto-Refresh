@@ -1,5 +1,4 @@
-﻿using System;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 using SpicIE;
 
 namespace PageRefresher
@@ -19,7 +18,7 @@ namespace PageRefresher
         }
 
         public override string PluginGuid { get { return "FA6B0C90-4E98-41C2-AE49-F77F62164685"; } }
-        public override string PluginProgID { get { return "PageRefresherPlugin.SpicIE.MenuItem"; } }
+        public override string PluginProgID { get { return "PageRefresherPlugin.SpicIE.Button"; } }
 
         private void Initialise()
         {
@@ -33,7 +32,7 @@ namespace PageRefresher
 
             //HotIconPath = Path.Combine(Host.GetActivePath(), "app.ico");
             //IconPath = Path.Combine(Host.GetActivePath(), "app.ico");
-            AssociatedCLSIDExtension = ButtonID;// new Guid("BD533DD3-D133-4B0A-8511-A59BDE9D0DDD");
+            AssociatedCLSIDExtension = ButtonID;
 
             OnButtonCommand += AutoRefreshButton_OnButtonCommand;
         }
@@ -44,17 +43,25 @@ namespace PageRefresher
             {
                 _timer.Stop();
                 _isTimerStarted = false;
-                MessageBox.Show("You have stopped auto page refresh!");
+                var messageBox = new FadingMessageBox
+                                     {
+                                         StartPosition = FormStartPosition.CenterScreen,
+                                         Message = "Auto page refresh has stopped!"
+                                     };
+                messageBox.Show();
             }
 
             else
             {
                 _timer.Start();
                 _isTimerStarted = true;
-                //Host.BrowserProperties.
-                var fadingMessageBox = new FadingMessageBox();
-                fadingMessageBox.Show();
-                MessageBox.Show("You have started auto page refresh!");
+
+                var messageBox = new FadingMessageBox
+                                     {
+                                         StartPosition = FormStartPosition.CenterScreen,
+                                         Message = "Auto page refresh has started!"
+                                     };
+                messageBox.Show();
             }
         }
 
